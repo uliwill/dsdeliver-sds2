@@ -1,9 +1,10 @@
 import './App.css';
+import Navbar from './Navbar';
 
 function App() {
   return (
     <div>
-      <h1>Semana DevSuperior 2.0</h1>
+      <Navbar />
     </div>
   );
 }
